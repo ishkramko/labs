@@ -1,0 +1,6 @@
+5
+Ira;Shkramko;5;15;
+Ira;Sarko;4;15;
+Olya;Shkramko;5;15;
+Ira;Shkramko;5;15;
+Ira;Shkramko;5;15;
